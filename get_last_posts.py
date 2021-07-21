@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 
 url = "https://vostbur.github.io"
 main_page = BeautifulSoup(requests.get(url).content, "html.parser")
-urls = []
 
 content = f"### Last posts from [blog]({url}):\n\n"
 for article_div in main_page.find_all("div", {"class": "mb-4"}):
