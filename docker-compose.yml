@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  vostbur:
+    image: update_readme
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    volumes:
+        - ./:/app
