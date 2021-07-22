@@ -1,6 +1,9 @@
 ### Last posts from [blog](https://vostbur.github.io):
 
   - [
+A dynamic GitHub profile with GitHub Actions
+](/django-with-do-apps-platform-copy/)
+  - [
 Deploying the django app on the DigitalOcean App Platform
 ](/django-with-do-apps-platform/)
   - [
@@ -42,6 +45,3 @@ Manage Docker without sudo and clean up used disk space
   - [
 Django REST API with React App step-by-step
 ](/start-django-rest-api-react-app/)
-  - [
-The backup connection between the two branches
-](/post-2021-02-14/)
