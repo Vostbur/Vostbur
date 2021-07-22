@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v2
       
       - name: Install python dependencies
-        uses: pip3 install requests bs4
+        run: pip3 install requests bs4
 
       - name: Update README.md
         run: python3 get_last_posts.py
