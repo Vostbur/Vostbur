@@ -22,7 +22,7 @@ Setup a basic workflow using GitHub Actions with Docker
 Creating dockerized Django app with VSCode
 ](/docker-django-vscode-start/)
   - [
-My experience of learning Django courses
+May 20, 2021
 ](/post-2021-05-20/)
   - [
 April 25, 2021
