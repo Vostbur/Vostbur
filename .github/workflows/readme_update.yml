@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   build:
@@ -13,9 +13,12 @@ jobs:
     steps:
       - name: Clone repository
         uses: actions/checkout@v2
+      
+      - name: Install python dependencies
+        uses: pip3 install requests bs4
 
       - name: Update README.md
-        run: docker-compose up
+        run: python3 get_last_posts.py
 
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
