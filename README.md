@@ -2,7 +2,7 @@
 
   - [
 The first acquaintance with the Cisco DevNet Sandbox
-](https://vostbur.github.io/cisco-devnet-sandbox/)
+](/cisco-devnet-sandbox/)
   - [
 A dynamic GitHub profile with GitHub Actions
 ](https://vostbur.github.io/django-with-do-apps-platform-copy/)
@@ -44,4 +44,8 @@ Using VS Code with pipenv
 ](https://vostbur.github.io/vscode-with-pipenv/)
   - [
 Manage Docker without sudo and clean up used disk space
+<<<<<<< HEAD
 ](https://vostbur.github.io/manage-docker-without-sudo-and-clean-disk/)
+=======
+](/manage-docker-without-sudo-and-clean-disk/)
+>>>>>>> 7343cfeb2654a3f857b2c7e132ebf88a0144872f
