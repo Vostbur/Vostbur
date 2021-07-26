@@ -1,6 +1,9 @@
 ### Last posts from [blog](https://vostbur.github.io):
 
   - [
+The first acquaintance with the Cisco DevNet Sandbox
+](/cisco-devnet-sandbox/)
+  - [
 A dynamic GitHub profile with GitHub Actions
 ](/django-with-do-apps-platform-copy/)
   - [
@@ -42,6 +45,3 @@ Using VS Code with pipenv
   - [
 Manage Docker without sudo and clean up used disk space
 ](/manage-docker-without-sudo-and-clean-disk/)
-  - [
-Django REST API with React App step-by-step
-](/start-django-rest-api-react-app/)
