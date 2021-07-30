@@ -1,6 +1,9 @@
 ### Last posts from [blog](https://vostbur.github.io):
 
   - [
+The framework for Django production-ready projects boilerplating
+](https://vostbur.github.io/cookiecutter-django/)
+  - [
 The first acquaintance with the Cisco DevNet Sandbox
 ](https://vostbur.github.io/cisco-devnet-sandbox/)
   - [
@@ -42,6 +45,3 @@ March 25, 2021
   - [
 Using VS Code with pipenv
 ](https://vostbur.github.io/vscode-with-pipenv/)
-  - [
-Manage Docker without sudo and clean up used disk space
-](https://vostbur.github.io/manage-docker-without-sudo-and-clean-disk/)
