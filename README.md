@@ -1,6 +1,9 @@
 ### Last posts from [blog](https://vostbur.github.io):
 
   - [
+How to push to GitHub via HTTPS if you have enabled two-factor authentication
+](https://vostbur.github.io/howto-push-github-with-token/)
+  - [
 The framework for Django production-ready projects boilerplating
 ](https://vostbur.github.io/cookiecutter-django/)
   - [
@@ -42,6 +45,3 @@ April 9, 2021
   - [
 March 25, 2021
 ](https://vostbur.github.io/post-2021-03-25/)
-  - [
-Using VS Code with pipenv
-](https://vostbur.github.io/vscode-with-pipenv/)
