@@ -1,6 +1,9 @@
 ### Last posts from [blog](https://vostbur.github.io):
 
   - [
+Starting a remote docker development server on DigitalOcean droplet
+](https://vostbur.github.io/starting-remote-docker-dev-server/)
+  - [
 How to push to GitHub via HTTPS if you have enabled two-factor authentication
 ](https://vostbur.github.io/howto-push-github-with-token/)
   - [
@@ -42,6 +45,3 @@ April 25, 2021
   - [
 April 9, 2021
 ](https://vostbur.github.io/post-2021-04-09/)
-  - [
-March 25, 2021
-](https://vostbur.github.io/post-2021-03-25/)
