@@ -1,3 +1,12 @@
+
+<div 
+    data-iframe-width="150" 
+    data-iframe-height="270" 
+    data-share-badge-id="185c22b1-6ad5-4b35-ab65-fb499041fb23" data-share-badge-host="https://www.credly.com">
+</div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
+</script>
+
 ### Last posts from [blog](https://vostbur.github.io):
 
   - [
