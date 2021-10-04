@@ -4,6 +4,9 @@
 ### Last posts from [blog](https://vostbur.github.io):
 
   - [
+Starting a Synapse/Matrix server on Raspberry Pi
+](https://vostbur.github.io/running-matrix-server-raspberry/)
+  - [
 Starting a remote docker development server on DigitalOcean droplet
 ](https://vostbur.github.io/starting-remote-docker-dev-server/)
   - [
@@ -45,6 +48,3 @@ My experience of learning Django courses
   - [
 April 25, 2021
 ](https://vostbur.github.io/post-2021-04-25/)
-  - [
-April 9, 2021
-](https://vostbur.github.io/post-2021-04-09/)
