@@ -4,6 +4,9 @@
 ### Last posts from [blog](https://vostbur.github.io):
 
   - [
+Starting a production Django server
+](https://vostbur.github.io/ansible-playbook-django-prod-server/)
+  - [
 Starting a Synapse/Matrix server on Raspberry Pi
 ](https://vostbur.github.io/running-matrix-server-raspberry/)
   - [
@@ -45,6 +48,3 @@ Creating dockerized Django app with VSCode
   - [
 My experience of learning Django courses
 ](https://vostbur.github.io/post-2021-05-20/)
-  - [
-April 25, 2021
-](https://vostbur.github.io/post-2021-04-25/)
