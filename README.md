@@ -5,6 +5,9 @@
 ### Last posts from [blog](https://vostbur.github.io):
 
   - [
+Snippet for printing a subclass tree
+](https://vostbur.github.io/gist-print-subclass-tree/)
+  - [
 Starting a production Django server
 ](https://vostbur.github.io/ansible-playbook-django-prod-server/)
   - [
@@ -46,6 +49,3 @@ Setup a basic workflow using GitHub Actions with Docker
   - [
 Creating dockerized Django app with VSCode
 ](https://vostbur.github.io/docker-django-vscode-start/)
-  - [
-My experience of learning Django courses
-](https://vostbur.github.io/post-2021-05-20/)
