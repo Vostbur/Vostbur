@@ -19,8 +19,8 @@ content += f"### Last posts from [blog]({url}):\n\n"
 # https://github.com/adityatelange/hugo-PaperMod/
 
 first_entry = main_page.find("article", {"class": "first-entry"})
-header = article_main.find("h2").text
-url = article_main.find("a", href=True)
+header = first_entry.find("h2").text
+url = first_entry.find("a", href=True)
 content += f"  - [{header}]({url['href']})\n"
 
 for post_entry in main_page.find_all("article", {"class": "post-entry"}):
