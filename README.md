@@ -4,6 +4,8 @@
 
 ### Last posts from [blog](https://vostbur.github.io):
 
+  - [Snippet for printing a subclass tree
+](https://vostbur.github.io/posts/snippet-printing-subclass-tree/)
   - [Starting a production Django server
 ](https://vostbur.github.io/posts/starting-prod-django-server/)
   - [Starting a Synapse/Matrix server on Raspberry Pi
