@@ -17,7 +17,7 @@ content += f"### Last posts from [blog]({url}):\n\n"
 for article_main in main_page.find_all("article", {"class": "post-entry"}):
     article_header = article_main.find("h2").text 
     article_url = article_main.find("a", href=True)
-    content += f"  - [{article_header}]({article_url["href"]})\n"
+    content += f"  - [{article_header}]({article_url['href']})\n"
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(content)
