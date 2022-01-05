@@ -4,6 +4,8 @@
 
 ### Last posts from [blog](https://vostbur.github.io):
 
+  - [Docker для python. Первые шаги
+](https://vostbur.github.io/posts/docker-for-python-first-steps/)
   - [Snippet for printing a subclass tree
 ](https://vostbur.github.io/posts/snippet-printing-subclass-tree/)
   - [Starting a production Django server
@@ -22,5 +24,3 @@
 ](https://vostbur.github.io/posts/django-on-digitalocean-app-platform/)
   - [Запуск CSR1000v в VirtualBox и VMware
 ](https://vostbur.github.io/posts/csr-virtualbox-vmware/)
-  - [Запуск CSR1000v в VirtualBox (Windows) с эмуляцией serial port
-](https://vostbur.github.io/posts/csr-virtualbox-serial-port-emulation/)
