@@ -4,6 +4,8 @@
 
 ### Last posts from [blog](https://vostbur.github.io):
 
+  - [Настройка web-сервера на Astra Linux SE 1.5
+](https://vostbur.github.io/posts/apache2-astra-linux-se-15/)
   - [Docker для python. Первые шаги
 ](https://vostbur.github.io/posts/docker-for-python-first-steps/)
   - [Snippet for printing a subclass tree
@@ -22,5 +24,3 @@
 ](https://vostbur.github.io/posts/dynamic-github-profile-with-github-actions/)
   - [Deploying the django app on the DigitalOcean App Platform
 ](https://vostbur.github.io/posts/django-on-digitalocean-app-platform/)
-  - [Запуск CSR1000v в VirtualBox и VMware
-](https://vostbur.github.io/posts/csr-virtualbox-vmware/)
