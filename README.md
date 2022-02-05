@@ -4,6 +4,8 @@
 
 ### Last posts from [blog](https://vostbur.github.io):
 
+  - [Запуск Django-приложений через mod_python в Astra Linux SE 1.5
+](https://vostbur.github.io/posts/django-starting-astra-linux-se-15/)
   - [Настройка web-сервера на Astra Linux SE 1.5
 ](https://vostbur.github.io/posts/apache2-astra-linux-se-15/)
   - [Docker для python. Первые шаги
@@ -22,5 +24,3 @@
 ](https://vostbur.github.io/posts/first-acquaintance-with-cisco-devnet-sandbox/)
   - [A dynamic GitHub profile with GitHub Actions
 ](https://vostbur.github.io/posts/dynamic-github-profile-with-github-actions/)
-  - [Deploying the django app on the DigitalOcean App Platform
-](https://vostbur.github.io/posts/django-on-digitalocean-app-platform/)
