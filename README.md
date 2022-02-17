@@ -4,6 +4,8 @@
 
 ### Last posts from [blog](https://vostbur.github.io):
 
+  - [Настройка входа в систему с Astra Linux Directory
+](https://vostbur.github.io/posts/ald-auth-astra-linux-se-15/)
   - [Запуск Django-приложений через mod_python в Astra Linux SE 1.5
 ](https://vostbur.github.io/posts/django-starting-astra-linux-se-15/)
   - [Настройка web-сервера на Astra Linux SE 1.5
@@ -22,5 +24,3 @@
 ](https://vostbur.github.io/posts/push-github-two-factor-auth/)
   - [The first acquaintance with the Cisco DevNet Sandbox
 ](https://vostbur.github.io/posts/first-acquaintance-with-cisco-devnet-sandbox/)
-  - [A dynamic GitHub profile with GitHub Actions
-](https://vostbur.github.io/posts/dynamic-github-profile-with-github-actions/)
