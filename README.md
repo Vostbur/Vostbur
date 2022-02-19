@@ -4,6 +4,8 @@
 
 ### Last posts from [blog](https://vostbur.github.io):
 
+  - [Web-приложение на Python в Astra Linux с ALD авторизацией
+](https://vostbur.github.io/posts/astra-linux-django-web-app-with-ald-auth/)
   - [Настройка входа в систему с Astra Linux Directory
 ](https://vostbur.github.io/posts/ald-auth-astra-linux-se-15/)
   - [Запуск Django-приложений через mod_python в Astra Linux SE 1.5
@@ -22,5 +24,3 @@
 ](https://vostbur.github.io/posts/starting-remote-docker-dev-server/)
   - [How to push to GitHub via HTTPS if you have enabled two-factor authentication
 ](https://vostbur.github.io/posts/push-github-two-factor-auth/)
-  - [The first acquaintance with the Cisco DevNet Sandbox
-](https://vostbur.github.io/posts/first-acquaintance-with-cisco-devnet-sandbox/)
