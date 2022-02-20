@@ -4,6 +4,8 @@
 
 ### Last posts from [blog](https://vostbur.github.io):
 
+  - [Django с PostgreSQL в Astra Linux SE 1.5
+](https://vostbur.github.io/posts/astra-linux-django-web-app-with-postgresql/)
   - [Web-приложение на Python в Astra Linux с ALD авторизацией
 ](https://vostbur.github.io/posts/astra-linux-django-web-app-with-ald-auth/)
   - [Настройка входа в систему с Astra Linux Directory
@@ -22,5 +24,3 @@
 ](https://vostbur.github.io/posts/starting-matrix-server-raspberry-pi/)
   - [Starting a remote docker development server on DigitalOcean droplet
 ](https://vostbur.github.io/posts/starting-remote-docker-dev-server/)
-  - [How to push to GitHub via HTTPS if you have enabled two-factor authentication
-](https://vostbur.github.io/posts/push-github-two-factor-auth/)
