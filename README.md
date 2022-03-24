@@ -4,6 +4,7 @@
 
 ### Last posts from [blog](https://vostbur.github.io):
 
+  - [The solve of the Cisco course's final exam](https://vostbur.github.io/posts/cisco-lab-answer-key/)
   - [Backup (clone) all your own gists](https://vostbur.github.io/posts/backup-all-your-own-gists/)
   - [Django с PostgreSQL в Astra Linux SE 1.5](https://vostbur.github.io/posts/astra-linux-django-web-app-with-postgresql/)
   - [Web-приложение на Python в Astra Linux с ALD авторизацией](https://vostbur.github.io/posts/astra-linux-django-web-app-with-ald-auth/)
@@ -13,4 +14,3 @@
   - [Docker для python. Первые шаги](https://vostbur.github.io/posts/docker-for-python-first-steps/)
   - [Snippet for printing a subclass tree](https://vostbur.github.io/posts/snippet-printing-subclass-tree/)
   - [Starting a production Django server](https://vostbur.github.io/posts/starting-prod-django-server/)
-  - [Starting a Synapse/Matrix server on Raspberry Pi](https://vostbur.github.io/posts/starting-matrix-server-raspberry-pi/)
