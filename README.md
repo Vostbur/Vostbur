@@ -6,6 +6,7 @@
 
 ### Last posts from [blog](https://vostbur.github.io):
 
+  - [Решение проблем с менеджером пакетов Windows](https://vostbur.github.io/posts/windows-package-management/)
   - [The solve of the Cisco course's final exam](https://vostbur.github.io/posts/cisco-lab-answer-key/)
   - [Backup (clone) all your own gists](https://vostbur.github.io/posts/backup-all-your-own-gists/)
   - [Django с PostgreSQL в Astra Linux SE 1.5](https://vostbur.github.io/posts/astra-linux-django-web-app-with-postgresql/)
@@ -15,4 +16,3 @@
   - [Настройка web-сервера на Astra Linux SE 1.5](https://vostbur.github.io/posts/apache2-astra-linux-se-15/)
   - [Docker для python. Первые шаги](https://vostbur.github.io/posts/docker-for-python-first-steps/)
   - [Snippet for printing a subclass tree](https://vostbur.github.io/posts/snippet-printing-subclass-tree/)
-  - [Starting a production Django server](https://vostbur.github.io/posts/starting-prod-django-server/)
