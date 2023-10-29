@@ -6,6 +6,7 @@
 
 ### Last posts from [blog](https://vostbur.github.io):
 
+  - [Управление Eltex vESR через модули Ansible от Cisco](https://vostbur.github.io/posts/cisco-ansible-modul-for-vesr/)
   - [Решение проблем с менеджером пакетов Windows](https://vostbur.github.io/posts/windows-package-management/)
   - [The solve of the Cisco course's final exam](https://vostbur.github.io/posts/cisco-lab-answer-key/)
   - [Backup (clone) all your own gists](https://vostbur.github.io/posts/backup-all-your-own-gists/)
@@ -15,4 +16,3 @@
   - [Запуск Django-приложений через mod_python в Astra Linux SE 1.5](https://vostbur.github.io/posts/django-starting-astra-linux-se-15/)
   - [Настройка web-сервера на Astra Linux SE 1.5](https://vostbur.github.io/posts/apache2-astra-linux-se-15/)
   - [Docker для python. Первые шаги](https://vostbur.github.io/posts/docker-for-python-first-steps/)
-  - [Snippet for printing a subclass tree](https://vostbur.github.io/posts/snippet-printing-subclass-tree/)
